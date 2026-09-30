@@ -1,21 +1,25 @@
-# madoguchi デザインシステム
+# madoguchi スライドガイドライン
 
-madoguchi が運営するサービスメディアのスライド・LP・UI制作に使用する共通デザインシステムです。
+madoguchi が運営するサービスメディアの**スライド（プレゼン資料）制作**に使用するガイドラインです。
+AI（スライド生成ツール）にそのまま読み込ませて使うことを前提に書いています。
+
+> LP・Web・アプリなどのUIデザインは、別リポジトリの UI用デザインシステムで管理します（準備中）。
+> このリポジトリは旧名 `madoguchi-design-system` から改名しました（2026-09-30）。
 
 ## リポジトリ構成
 
 ```
-design-system/
+madoguchi-slide-guidelines/
 ├── README.md
 └── 不用品回収の窓口/
     ├── CHANGELOG.md       # 変更履歴
-    └── designsystem.md    # 最新版デザインシステム仕様書
+    └── designsystem.md    # 最新版スライドガイドライン
 ```
 
-今後、他メディアのデザインシステムも同階層に追加予定です。
+今後、他メディアのガイドラインも同階層に追加予定です。
 
 ```
-design-system/
+madoguchi-slide-guidelines/
 ├── 不用品回収の窓口/
 ├── gaiheki+/
 ├── おそうじ合衆国/
